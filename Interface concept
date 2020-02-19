@@ -1,3 +1,6 @@
 They are abstract in nature.
 we cannot create object of interface.
 that are pulic static final in nature.
+
+
+only method declarations
